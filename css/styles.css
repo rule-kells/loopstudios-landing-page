@@ -463,6 +463,10 @@
 
   @media (min-width: 75rem) {
 
+      .hero .logo {
+          max-width: 192px;
+      }
+
       .hero {
           padding: 4rem 1.5rem 9.125rem;
       }
@@ -470,6 +474,10 @@
       .hero .fs-heading-l {
           max-width: 40.625rem;
           padding: 2.5rem;
+      }
+
+      .nav.flex {
+          margin-bottom: 8.125rem;
       }
 
       .interactive {
