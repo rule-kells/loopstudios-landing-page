@@ -463,6 +463,10 @@
 
   @media (min-width: 75rem) {
 
+      .hero {
+          padding: 4rem 1.5rem 9.125rem;
+      }
+
       .hero .fs-heading-l {
           max-width: 40.625rem;
           padding: 2.5rem;
@@ -473,6 +477,7 @@
           grid-template-columns: minmax(35.625rem, 1fr) minmax(11.875rem, 1fr) minmax(23.75rem, 1fr);
           justify-content: center;
           align-items: flex-end;
+          padding: 10rem 0 11.5rem;
       }
 
       .interactive__img {
